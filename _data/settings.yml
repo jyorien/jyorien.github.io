@@ -12,7 +12,6 @@ copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.c
 menu:
 - {name: About, link: '/about'}
 - {name: Blog, link: '/blog'}
-- {name: Portfolio, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
 
 
@@ -37,13 +36,10 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Joey <br> Android App Developer <b> Tech Enthusiast
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
+- {icon: "ti-linkedin", link: "https://www.linkedin.com/in/joeyllp/"}
 
 
 #-------------------------------
@@ -51,10 +47,10 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  I mainly develop Android Applications but I am also familiar with using cloud technologies such as AWS and Google Cloud. I enjoy learning new techy things and I currently learn game development on the side.
 
 blurb-btn-link: '/about'
-blurb-btn-name: know more
+blurb-btn-name: Learn more...
 
 
 # About Page
