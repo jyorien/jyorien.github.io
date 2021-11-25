@@ -110,6 +110,14 @@ a:hover {
   background: $primary-color !important;
 }
 
+.bg-gold {
+  background-image: url(../images/backgrounds/gold-image.jpg) !important;
+  background: $primary-color;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
 .bg-gray{
   background: $gray !important;
 }
