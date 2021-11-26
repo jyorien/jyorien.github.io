@@ -59,7 +59,7 @@ blurb-btn-name: Learn more...
 
 skills-title: Skills
 skills:
-- {name: Native Android App Development, color: '#3DDC84', value: '100%'}
+- {name: Native Android App Development, color: '#3DDC84', value: '95%'}
 - {name: Mobile UI/UX Design, color: '#bdecf6', value: '70%'}
 - {name: NodeJS Development, color: '#303030', value: '60%'}
 - {name: Game Development, color: '#ffbcaa', value: '40%'}
@@ -81,71 +81,33 @@ achievement:
 - {name: WorldSkills Singapore 2021, date: '2021', award: 'Gold'}
 - {name: TP-Essilor Innovation Challenge, date: '2021', award: 'First Runner-Up'}
 
+#-------------------------------
+# Awards Section
 
+awards-title: Awards
+award:
+- {name: Director's List, date: 'AY20/21'}
+- {name: CSIT Diploma Scholarship, date: '2021'}
+- {name: TP-VCE Scholarship, date: '2021'}
+
+#-------------------------------
 # Portfolio Page
-portfolio-label:
-- {
-    title : "UI Design",
-    type : "design"
-  }
-- {
-    title : "BRANDING",
-    type : "branding"
-  }
-- {
-    title : "ILLUSTRATION",
-    type : "illustration"
-  }
 
 portfolio-items:
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-     - type: "design"
-     - type: "illustration"
+  - image : "assets/images/portfolio/Laze.png"
+    url: "https://github.com/jyorien/Laze"
+    name: "Laze"
+
       
-  - image : "assets/images/portfolio/item-2.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
+  - image : "assets/images/portfolio/FaceEntry.png"
+    url: "https://github.com/jyorien/FaceEntry"
+    name: "FaceEntry"
+
       
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-      
-  - image : "assets/images/portfolio/item-6.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-8.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-      
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+  - image : "assets/images/portfolio/RunLah.png"
+    url: "https://github.com/jyorien/RunLah"
+    name: "RunLah"
+
 
 #-------------------------------
 # Contact Section
