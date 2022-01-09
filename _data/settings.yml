@@ -94,6 +94,11 @@ award:
 # Portfolio Page
 
 portfolio-items:
+
+  - image: "assets/images/portfolio/GitCat.png"
+    url: "https://github.com/jyorien/GitCat"
+    name: "GitCat"
+    
   - image : "assets/images/portfolio/Laze.png"
     url: "https://github.com/jyorien/Laze"
     name: "Laze"
