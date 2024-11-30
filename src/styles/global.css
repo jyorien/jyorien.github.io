@@ -7,7 +7,7 @@
     --text-light: #1e1e2e; 
     --text-link: #78c2ad;
     --underline: #375a7f;
-    --header: 'Pacifico', cursive;
+    --header: 'Sour Gummy', sans-serif;
     --body: 'Josefin Sans', sans-serif; 
 }
 
@@ -169,8 +169,8 @@ small, li {
     transform: scale(1.05);
 }
 
-.link-card-grid {
-    display: grid;
+.link-card-inline {
+    display: inline;
     grid-template-columns: repeat(auto-fit, minmax(24ch, 1fr));
     gap: 1rem;
     padding: 0;
